@@ -13,7 +13,7 @@ As far as we're concerned, two of the most important traits for success in the t
 This document provides a few starting points, but it's important that you learn to find interesting stuff through your own channels. Two good places to sart are [Twitter](http://twitter.com) and [Medium](http://medium.com).
 
 #### Medium 
-1. **Set up an account**. You'll be using Medium to write and publish articles during your course.
+1. **Set up an account** – You'll be using Medium to write and publish articles during your course.
 2. **Follow some people** – Follow tags, people and publications that align with your interests in technologt. You could start with these:
     * [Technology](https://medium.com/tag/technology)
     * [Startup](https://medium.com/tag/startup)
@@ -29,8 +29,8 @@ This document provides a few starting points, but it's important that you learn 
     * [Medium Engineering](https://medium.engineering/)
     * [Several People are Typing](https://slack.engineering/)
 
-3. Install the Medium app on your phone. The bookmarks feature is useful.
-4. If you fancy it, write an article ✍️.
+3. **Get the apps** – Install the Medium app on your phone. The bookmarks feature is useful.
+4. **Write** – If you fancy it, write an article ✍️.
 
 #### Twitter
 
@@ -40,7 +40,7 @@ Feel free to share any good articles or videos you find with [@spartaglobal](htt
 
 #### Pocket
 
-Once you start following the enough people on Twitter, Medium, YouuTube and the like, it's very easy to get overwhelmed with all the interesting content. Pocket allows you to save articles when you see them, and read them later on.
+Once you start following the enough people on Twitter, Medium, YouTube and the like, it's very easy to get overwhelmed with all the interesting content. Pocket allows you to save articles when you see them, and read them later on.
 
 1. Sign up for an account at http://getpocket.com.
 2. Install the Browser extension.
@@ -51,7 +51,7 @@ Once you start following the enough people on Twitter, Medium, YouuTube and the 
 
 Being a good techologis is about far more than writing good code or testing: It's about understanding business, and being productive in every area of your life and work. While you should obviously read technical articles, don't discount articles on **business**, **personal productivity**, **habits**, **agile**, **process**, **teamwork**, **communication** and **management**. All these things are just as curicial to your career as your technical ability.
 
-> If you don't enjoy learning new things every day, you're probably not cut out for the tech industry!
+> 📖 If you don't enjoy learning new things every day, you're probably not cut out for the tech industry!
 
 ## Learning the basics
 
