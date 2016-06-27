@@ -2,9 +2,9 @@
 
 Although pre-training for our courses isn't *mandatory*, we do recommend that you spend some time preparing. This document gives some advice on what you can do to make your life much easier on the course, and how to improve your knowledge in general.
 
-The training course aims to produce [T-shaped](https://en.wikipedia.org/wiki/T-shaped_skills) people, with a wide breath of skills and a specialism. The core modules therefore cover a lot of material, so anything you can do to gain some prior knowledge will help out.
+The training course aims to produce [T-shaped](https://en.wikipedia.org/wiki/T-shaped_skills) people, with a wide breadth of skills plus a specialism. The core modules therefore cover a lot of ground, so anything you can do to gain some prior knowledge will help out.
 
-As far as we're concerned, two of the most important traits for success in the tech industry are **[passion](http://sparta.global/deloitte-pssion)** and **[curiosity](http://sparta.global/cio-curiosity)**. We're hoping you're already passionate about technology, but having the curiosity to find out how and why things work might be something you need to develop. Thankfully, we've got the Internet.
+As far as we're concerned, two of the most important traits for success in the tech industry are **[passion](http://sparta.global/deloitte-pssion)** and **[curiosity](http://sparta.global/cio-curiosity)**. We're hoping you're already passionate about technology, but having the curiosity to find out how and why things work may be something you need to develop.
 
 > *Read everything you can, and then find more to read. That's the best advice I can offer!* – **Joe Buckwell**, Sparta Graduate
 
@@ -34,13 +34,13 @@ This document provides a few starting points, but it's important that you learn 
 
 #### Twitter
 
-Twitter is a brilliant place to find interesting and relevant articles, but only if you follow the right people. You could start by following Medium authors who's articles you've enjoyed, and build your list up by looking at the people they follow.
+Twitter is a brilliant place to find interesting and relevant articles, but only if you follow the right people. You could start by following Medium authors whose articles you've enjoyed, and build up your list up by looking at the people they follow.
 
 Feel free to share any good articles or videos you find with [@spartaglobal](http://twitter.com/spartaglobal), too!
 
 #### Pocket
 
-Once you start following the enough people on Twitter, Medium, YouTube and the like, it's very easy to get overwhelmed with all the interesting content. Pocket allows you to save articles when you see them, and read them later on.
+Once you start following enough people on Twitter, Medium, YouTube and the like, it's very easy to get overwhelmed with all the interesting content. Pocket allows you to save articles when you see them, to read them later.
 
 1. Sign up for an account at http://getpocket.com.
 2. Install the Browser extension.
@@ -55,14 +55,12 @@ Being a good technologist is about far more than writing good code or testing: I
 
 ## Learning the basics
 
-
-
 #### The Command Line
 
 Regardless of the course you're applying for, you're likely to spend a fair amount of time working with the command line. For those hoping to become engineers (whether development, DevOps or SDET), this is doubly important. We'd recommend the following:
 
 1. Complete free elements of the Codecademy *[Learn the Command Line Course](https://www.codecademy.com/learn/learn-the-command-line)* (3 hours).
-2. Spend some time practicing some of the basics. Command like `cd`, `cp`, `mv`, `rm`, `touch`, `ls` should be second nature to you. *(You'll need to be running Linux or macOS to do this. If you're on Windows you can install [Git for Windows](https://git-for-windows.github.io/) and use the git-bash app that comes with it.)*
+2. Spend some time practising some of the basics. Command like `cd`, `cp`, `mv`, `rm`, `touch`, `ls` should be second nature to you. *(You'll need to be running Linux or macOS to do this. If you're on Windows you can install [Git for Windows](https://git-for-windows.github.io/) and use the git-bash app that comes with it.)*
 3. **Bonus:** If you fancy a challenge, you could also look into [Vim](http://www.vim.org/) – you might find [this](http://www.openvim.com/) useful.
 
 #### Markdown
@@ -74,7 +72,7 @@ You'll use markdown extensively during the course, and many of our students use 
 
 ## More online training
 
-Aside from learning the command line and markdown, we'd also recommend that you brush up on 
+Aside from learning the command line and markdown, we'd also recommend that you brush up on some other core competencies.
 
 If you haven't completed them already, we suggest that you complete the free elements of:
 
@@ -88,25 +86,25 @@ Once you've done that, feel free to start any of the other Codecademy courses. T
 
 If you've got time on your hands and don't mind spending a bit of money, [CodeSchool](https://www.codeschool.com/) offers some fantastic courses in Engineering, while [Linux Academy](https://linuxacademy.com/) offers some great DevOps and Sys Admin training.
 
-> ⚠️**WARNING:** The CodeSchool and Linux Academy courses are pretty tough. It's far better that you get comfortable with everything else than try to push yourself too far – your run the risk of forgetting the more important stuff. 
+> ⚠️**WARNING:** The CodeSchool and Linux Academy courses are pretty tough. It's far better that you get comfortable with everything else than try to push yourself too far – you run the risk of forgetting the more important stuff. 
 
 If you do sign up for either of these, we'd suggest:
 
 * _CodeSchool_
-    * **Front-end Foundations** and **Formations** - for anyone
-    * **Try SQL** and **The Sequel to SQL** - for anyone
-    * **Try Git**, **Git Real** and **Mastering GitHub** - for anyone
-    * **MongoDB** - for JS engineers
-    * **JavaScript Road Trip parts 1 and 2** - for JS engineers
-    * **Try Ruby** and **Ruby Bits** - for SDET and DevOps engineers
+    * **Front-end Foundations** and **Formations** - for anyone.
+    * **Try SQL** and **The Sequel to SQL** - for anyone.
+    * **Try Git**, **Git Real** and **Mastering GitHub** - for anyone.
+    * **MongoDB** - for JS engineers.
+    * **JavaScript Road Trip parts 1 and 2** - for JS engineers.
+    * **Try Ruby** and **Ruby Bits** - for SDET and DevOps engineers.
 * _Linux Academy_
-    * **Linux Essentials** - for DevOps engineers
-    * **DevOps Essentials** - for DevOps engineers
+    * **Linux Essentials** - for DevOps engineers.
+    * **DevOps Essentials** - for DevOps engineers.
 
 
 ## Agile Software Development
 
-[Agile Software Development](https://en.wikipedia.org/wiki/Agile_software_development) features pretty heavily in our training and while we'll teach you about modern agile philosophy and methodology, it'd be helpful if arrive with some understanding of what it's all about. There are hundreds of resources out there that will help you understand what agile is about. Here are just a few of them:
+[Agile Software Development](https://en.wikipedia.org/wiki/Agile_software_development) features pretty heavily in our training and while we'll teach you about the philosophy and methodologies, it'd be helpful if you arrive with some understanding of what it's all about. There are hundreds of resources out there that can help you understand what agile. Here are just a few of them:
 
 * [Agile: An Introduction](https://www.youtube.com/watch?v=OJflDE6OaSc), by CA Technologies *(9 min video)*
 * [A Gentle Introduction to Agile](http://www.drdobbs.com/jvm/a-gentle-introduction-to-agile/240164649)
@@ -146,11 +144,13 @@ Some good articles from [GDS](https://gds.blog.gov.uk/category/gds/):
 
 ## Books
 
-There are hundreds of good books on coding and testing and while we'll recommend some of these during the course, we'd rather you read something a little less technical. Here are three books we'd recommend to anyone entering the tech industry:
+There are hundreds of good books on coding and testing. While we'll recommend some of these during the course, we'd rather you read something a little less technical as well. Here are three books we'd recommend to anyone entering the tech industry:
 
 * [The Phoenix Project](https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/ref=sr_1_1?ie=UTF8&qid=1467059023&sr=8-1&keywords=the+phoenix+project) by Gene Kim, Kevin Behr and George Spafford
 * [The Lean Startup](https://www.amazon.co.uk/Lean-Startup-Innovation-Successful-Businesses/dp/0670921602/ref=sr_1_1?ie=UTF8&qid=1467059032&sr=8-1&keywords=lean+startup) by Eric Ries
 * [The Power of Habit](https://www.amazon.co.uk/Power-Habit-Why-What-Change/dp/1847946240/ref=sr_1_1?ie=UTF8&qid=1467059040&sr=8-1&keywords=Habits) by Charles Duhigg
+
+The Amazon descriptions should make it clear what they're all about.
 
 ---
 ### We're looking forward to meeting you 😃
