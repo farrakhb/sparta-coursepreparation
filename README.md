@@ -1,20 +1,20 @@
 # Course Preparation
 
-Although pre-training for our courses isn't *mandatory*, we do reccomend that you spend some time preparing. This document gives some advice on what you can do to make your life much easier on the course, and how to improve your knowledge in general.
+Although pre-training for our courses isn't *mandatory*, we do recommend that you spend some time preparing. This document gives some advice on what you can do to make your life much easier on the course, and how to improve your knowledge in general.
 
 The training course aims to produce [T-shaped](https://en.wikipedia.org/wiki/T-shaped_skills) people, with a wide breath of skills and a specialism. The core modules therefore cover a lot of material, so anything you can do to gain some prior knowledge will help out.
 
-As far as we're concerned, two of the most important traits for success in the tech industry are **[passion](http://sparta.global/deloitte-pssion)** and **[curiosity](http://sparta.global/cio-curiosity)**. We're hoping you're already passionate about technology, but having the curiosity to find out how and why things work might be something you need to develop. Thankfully, we've got the internet.
+As far as we're concerned, two of the most important traits for success in the tech industry are **[passion](http://sparta.global/deloitte-pssion)** and **[curiosity](http://sparta.global/cio-curiosity)**. We're hoping you're already passionate about technology, but having the curiosity to find out how and why things work might be something you need to develop. Thankfully, we've got the Internet.
 
 > *Read everything you can, and then find more to read. That's the best advice I can offer!* – **Joe Buckwell**, Sparta Graduate
 
 ## Finding things to read
 
-This document provides a few starting points, but it's important that you learn to find interesting stuff through your own channels. Two good places to sart are [Twitter](http://twitter.com) and [Medium](http://medium.com).
+This document provides a few starting points, but it's important that you learn to find interesting stuff through your own channels. Two good places to start are [Twitter](http://twitter.com) and [Medium](http://medium.com).
 
 #### Medium 
 1. **Set up an account** – You'll be using Medium to write and publish articles during your course.
-2. **Follow some people** – Follow tags, people and publications that align with your interests in technologt. You could start with these:
+2. **Follow some people** – Follow tags, people and publications that align with your interests in technology. You could start with these:
     * [Technology](https://medium.com/tag/technology)
     * [Startup](https://medium.com/tag/startup)
     * [Ruby](https://medium.com/tag/ruby) (or whatever programming language you favour)
@@ -34,7 +34,7 @@ This document provides a few starting points, but it's important that you learn 
 
 #### Twitter
 
-Twitter is a brilliant place to find interesting and relevant articles, but only if you follow the right people. You could start by following Medium authors who's articles you've enjoyed, and build your list up by looking at the eople they follow.
+Twitter is a brilliant place to find interesting and relevant articles, but only if you follow the right people. You could start by following Medium authors who's articles you've enjoyed, and build your list up by looking at the people they follow.
 
 Feel free to share any good articles or videos you find with [@spartaglobal](http://twitter.com/spartaglobal), too!
 
@@ -49,7 +49,7 @@ Once you start following the enough people on Twitter, Medium, YouTube and the l
 
 #### What to read?
 
-Being a good techologis is about far more than writing good code or testing: It's about understanding business, and being productive in every area of your life and work. While you should obviously read technical articles, don't discount articles on **business**, **personal productivity**, **habits**, **agile**, **process**, **teamwork**, **communication** and **management**. All these things are just as curicial to your career as your technical ability.
+Being a good technologist is about far more than writing good code or testing: It's about understanding business, and being productive in every area of your life and work. While you should obviously read technical articles, don't discount articles on **business**, **personal productivity**, **habits**, **agile**, **process**, **teamwork**, **communication** and **management**. All these things are just as crucial to your career as your technical ability.
 
 > 📖 If you don't enjoy learning new things every day, you're probably not cut out for the tech industry!
 
@@ -59,22 +59,22 @@ Being a good techologis is about far more than writing good code or testing: It'
 
 #### The Command Line
 
-Regardless of the course you're applying for, you're likeley to spend a fair amount of time working with the command line. For those hoping to become engineers (whether development, DevOps or SDET), this is doubly important. We'd reccomend the following:
+Regardless of the course you're applying for, you're likely to spend a fair amount of time working with the command line. For those hoping to become engineers (whether development, DevOps or SDET), this is doubly important. We'd recommend the following:
 
 1. Complete free elements of the Codecademy *[Learn the Command Line Course](https://www.codecademy.com/learn/learn-the-command-line)* (3 hours).
-2. Spend some time practacing some of the basics. Command like `cd`, `cp`, `mv`, `rm`, `touch`, `ls` should be second nature to you. *(You'll need to be running Linux or macOS to do this. If you're on Windows you can install [Git for Windows](https://git-for-windows.github.io/) and use the git-bash app that comes with it.)*
+2. Spend some time practicing some of the basics. Command like `cd`, `cp`, `mv`, `rm`, `touch`, `ls` should be second nature to you. *(You'll need to be running Linux or macOS to do this. If you're on Windows you can install [Git for Windows](https://git-for-windows.github.io/) and use the git-bash app that comes with it.)*
 3. **Bonus:** If you fancy a challenge, you could also look into [Vim](http://www.vim.org/) – you might find [this](http://www.openvim.com/) useful.
 
 #### Markdown
 
-[Markdown](https://daringfireball.net/projects/markdown/) is a simple language which is used extensivley in the tech world. The syntax is pretty simple, and we highly reccomend reccomend that you [learn it](https://blog.ghost.org/markdown/) before joining the course. Here's a [good interactive tutorial](http://www.markdowntutorial.com/).
+[Markdown](https://daringfireball.net/projects/markdown/) is a simple language which is used extensively in the tech world. The syntax is pretty simple, and we highly recommend that you [learn it](https://blog.ghost.org/markdown/) before joining the course. Here's a [good interactive tutorial](http://www.markdowntutorial.com/).
 
 You'll use markdown extensively during the course, and many of our students use it to write their notes. (**Interesting fact**: This document is written in Markdown🌟.)
 
 
 ## More online training
 
-Aside from learning the command line and markdown, we'd also reccomend that you brush up on 
+Aside from learning the command line and markdown, we'd also recommend that you brush up on 
 
 If you haven't completed them already, we suggest that you complete the free elements of:
 
@@ -90,7 +90,7 @@ If you've got time on your hands and don't mind spending a bit of money, [CodeSc
 
 > ⚠️**WARNING:** The CodeSchool and Linux Academy courses are pretty tough. It's far better that you get comfortable with everything else than try to push yourself too far – your run the risk of forgetting the more important stuff. 
 
-If you do sign up for either of these, we'd sugest:
+If you do sign up for either of these, we'd suggest:
 
 * _CodeSchool_
     * **Front-end Foundations** and **Formations** - for anyone
@@ -119,7 +119,7 @@ Some good articles from [GDS](https://gds.blog.gov.uk/category/gds/):
 * [UK Government Digital Service: Agile Tools and Techniques](https://www.gov.uk/service-manual/agile-delivery/agile-tools-techniques)
 * [UK Government Digital Service: Writing User Stories](https://www.gov.uk/service-manual/agile-delivery/writing-user-stories)
 
-**Agile In Practace Videos from the Agile Academy**
+**Agile In Practice Videos from the Agile Academy**
 
 * [Agile Team Roles](https://www.youtube.com/watch?v=nGADfBbkFoo)
 * [Stand-Ups](https://www.youtube.com/watch?v=42hFGMVszkQ)
@@ -146,10 +146,10 @@ Some good articles from [GDS](https://gds.blog.gov.uk/category/gds/):
 
 ## Books
 
-There are hundreds of good books on coding and testing and while we'll reccomend some of these during the course, we'd rather you read something a little less technical. Here are three books we'd reccomend to anyone entering the tech industry:
+There are hundreds of good books on coding and testing and while we'll recommend some of these during the course, we'd rather you read something a little less technical. Here are three books we'd recommend to anyone entering the tech industry:
 
 * [The Phoenix Project](https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/ref=sr_1_1?ie=UTF8&qid=1467059023&sr=8-1&keywords=the+phoenix+project) by Gene Kim, Kevin Behr and George Spafford
-* [The Lean Startup](https://www.amazon.co.uk/Lean-Startup-Innovation-Successful-Businesses/dp/0670921602/ref=sr_1_1?ie=UTF8&qid=1467059032&sr=8-1&keywords=lean+startup) by eric Ries
+* [The Lean Startup](https://www.amazon.co.uk/Lean-Startup-Innovation-Successful-Businesses/dp/0670921602/ref=sr_1_1?ie=UTF8&qid=1467059032&sr=8-1&keywords=lean+startup) by Eric Ries
 * [The Power of Habit](https://www.amazon.co.uk/Power-Habit-Why-What-Change/dp/1847946240/ref=sr_1_1?ie=UTF8&qid=1467059040&sr=8-1&keywords=Habits) by Charles Duhigg
 
 ---
