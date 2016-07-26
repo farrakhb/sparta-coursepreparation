@@ -53,6 +53,24 @@ Being a good technologist is about far more than writing good code or testing: I
 
 > 📖 If you don't enjoy learning new things every day, you're probably not cut out for the tech industry!
 
+## Using a Mac
+
+On the course, you will be using a Mac for everything. If you have used one in the past this may be easy, but if you're new to them there are some subtle differences in how they work that are worth spending time on. The faster you are at using your machine, the more time you will have to focus on the course material.
+
+If you don't have access to mac, it would be worth borrowing one from a friend or going into an Apple Store and having a play with the merchandise. The Apple Store also offers instruction on the basics of using a mac.
+
+#### Things to know before the course
+1. **A fancier trackpad** - The mac trackpad allows much more functionality than most windows machines, especially with the use of multi-touch gestures. These will be incredibly useful when navigation between different windows and programs. Spend some time practising these and how they can be used. They can also be customised in System Preferences.
+2. **Right-click** - Right click is less used on a mac, although it is replaced with a two finger click by default.
+2. **The dock** - Instead of a start menu, a mac makes use of a dock at the bottom of the screen. This can be configured any way the user wants to contain all the things used most often.
+3. **The finder** - Mac's version of the file explorer, allows navigation throughout the files and folders on the machine.
+4. **Drag and drop** - On a mac, most things can be dragged and dropped somewhere else. Whether it's images from the internet, files on the desktop, apps in the dock, drag and drop is your friend.
+5. **Installing programs** - Installation is a breeze on a mac, you simply download `.pkg` file and drag it into your Applications folder. 
+5. **Spotlight search** - This simple search can be opened with the keyboard shortcut `cmd + space`, and allows search throughout your entire machine. This is really useful when you first start and you're not sure exactly where everything is!
+6. **Terminal** - The program that gives access to the command line in mac. There are some useful keyboard shortcuts in this [terminal cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet/blob/master/README.md).
+7. **Multiple desktops** - A really useful workflow tool. Multiple desktops can be added and navigated through using multi-touch gestures.
+8. **Different keys** - Watch out for that cheeky @ sign, he's in a different place! There is also the `cmd` key used for keyboard shortcuts. 
+
 ## Learning the basics
 
 #### The Command Line
@@ -60,14 +78,14 @@ Being a good technologist is about far more than writing good code or testing: I
 Regardless of the course you're applying for, you're likely to spend a fair amount of time working with the command line. For those hoping to become engineers (whether development, DevOps or SDET), this is doubly important. We'd recommend the following:
 
 1. Complete free elements of the Codecademy *[Learn the Command Line Course](https://www.codecademy.com/learn/learn-the-command-line)* (3 hours).
-2. Spend some time practising some of the basics. Command like `cd`, `cp`, `mv`, `rm`, `touch`, `ls` should be second nature to you. *(You'll need to be running Linux or macOS to do this. If you're on Windows you can install [Git for Windows](https://git-for-windows.github.io/) and use the git-bash app that comes with it.)*
+2. Spend some time practising some of the basics. Command like `cd`, `cp`, `mv`, `rm`, `touch`, `ls` should be second nature to you. 
 3. **Bonus:** If you fancy a challenge, you could also look into [Vim](http://www.vim.org/) – you might find [this](http://www.openvim.com/) useful.
 
 #### Markdown
 
 [Markdown](https://daringfireball.net/projects/markdown/) is a simple language which is used extensively in the tech world. The syntax is pretty simple, and we highly recommend that you [learn it](https://blog.ghost.org/markdown/) before joining the course. Here's a [good interactive tutorial](http://www.markdowntutorial.com/).
 
-You'll use markdown extensively during the course, and many of our students use it to write their notes. (**Interesting fact**: This document is written in Markdown🌟.)
+You'll use markdown extensively during the course, and many of our students use it to write their notes. (**Interesting fact**: This document is written in Markdown🌟). 
 
 
 ## More online training
