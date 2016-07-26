@@ -65,7 +65,7 @@ If you don't have access to mac, it would be worth borrowing one from a friend o
 2. **The dock** - Instead of a start menu, a mac makes use of a dock at the bottom of the screen. This can be configured any way the user wants to contain all the things used most often.
 3. **The finder** - Mac's version of the file explorer, allows navigation throughout the files and folders on the machine.
 4. **Drag and drop** - On a mac, most things can be dragged and dropped somewhere else. Whether it's images from the internet, files on the desktop, apps in the dock, drag and drop is your friend.
-5. **Installing programs** - Installation is a breeze on a mac, you simply download `.pkg` file and drag it into your Applications folder. 
+5. **Installing programs** - Installation is a breeze on a mac, you simply download a `.dmg` or `.pkg` file and drag it into your Applications folder. 
 5. **Spotlight search** - This simple search can be opened with the keyboard shortcut `cmd + space`, and allows search throughout your entire machine. This is really useful when you first start and you're not sure exactly where everything is!
 6. **Terminal** - The program that gives access to the command line in mac. There are some useful keyboard shortcuts in this [terminal cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet/blob/master/README.md).
 7. **Multiple desktops** - A really useful workflow tool. Multiple desktops can be added and navigated through using multi-touch gestures.
