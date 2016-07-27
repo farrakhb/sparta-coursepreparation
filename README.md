@@ -173,4 +173,4 @@ The Amazon descriptions should make it clear what they're all about.
 ---
 ### We're looking forward to meeting you 😃
 
-*PS. If you spot any typos in this document or have any resources you're like to add, feel free to submit a [pull request](https://help.github.com/articles/using-pull-requests/) once you know how to use Git and GitHub.*
+*PS. If you spot any typos in this document or have any resources you'd like to add, feel free to submit a [pull request](https://help.github.com/articles/using-pull-requests/) once you know how to use Git and GitHub.*
