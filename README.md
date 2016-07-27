@@ -34,7 +34,7 @@ This document provides a few starting points, but it's important that you learn 
 
 #### Twitter
 
-Twitter is a brilliant place to find interesting and relevant articles, but only if you follow the right people. You could start by following Medium authors whose articles you've enjoyed, and build up your list up by looking at the people they follow.
+Twitter is a brilliant place to find interesting and relevant articles, but only if you follow the right people. You could start by following Medium authors whose articles you've enjoyed, and build your list up by looking at the people they follow.
 
 Feel free to share any good articles or videos you find with [@spartaglobal](http://twitter.com/spartaglobal), too!
 
@@ -60,7 +60,7 @@ On the course, you will be using a Mac for everything. If you have used one in t
 If you don't have access to mac, it would be worth borrowing one from a friend or going into an Apple Store and having a play with the merchandise. The Apple Store also offers instruction on the basics of using a mac.
 
 #### Things to know before the course
-1. **A fancier trackpad** - The mac trackpad allows much more functionality than most windows machines, especially with the use of multi-touch gestures. These will be incredibly useful when navigation between different windows and programs. Spend some time practising these and how they can be used. They can also be customised in System Preferences.
+1. **A fancier trackpad** - The mac trackpad allows much more functionality than most windows machines, especially with the use of multi-touch gestures. These will be incredibly useful when navigating between different windows and programs. Spend some time practising these and how they can be used. They can also be customised in System Preferences.
 2. **Right-click** - Right click is less used on a mac, although it is replaced with a two finger click by default.
 2. **The dock** - Instead of a start menu, a mac makes use of a dock at the bottom of the screen. This can be configured any way the user wants to contain all the things used most often.
 3. **The finder** - Mac's version of the file explorer, allows navigation throughout the files and folders on the machine.
@@ -122,7 +122,7 @@ If you do sign up for either of these, we'd suggest:
 
 ## Agile Software Development
 
-[Agile Software Development](https://en.wikipedia.org/wiki/Agile_software_development) features pretty heavily in our training and while we'll teach you about the philosophy and methodologies, it'd be helpful if you arrive with some understanding of what it's all about. There are hundreds of resources out there that can help you understand what agile. Here are just a few of them:
+[Agile Software Development](https://en.wikipedia.org/wiki/Agile_software_development) features pretty heavily in our training and while we'll teach you about the philosophy and methodologies, it'd be helpful if you arrive with some understanding of what it's all about. There are hundreds of resources out there that can help you understand what agile is. Here are just a few of them:
 
 * [Agile: An Introduction](https://www.youtube.com/watch?v=OJflDE6OaSc), by CA Technologies *(9 min video)*
 * [A Gentle Introduction to Agile](http://www.drdobbs.com/jvm/a-gentle-introduction-to-agile/240164649)
