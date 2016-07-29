@@ -1,8 +1,38 @@
 # Course Preparation
 
-Although pre-training for our courses isn't *mandatory*, we do recommend that you spend some time preparing. This document gives some advice on what you can do to make your life much easier on the course, and how to improve your knowledge in general.
+We recommend that you spend some time preparing for your course. This document gives some advice on what you can do to make your life much easier once you start and how to improve your knowledge in general.
 
-The training course aims to produce [T-shaped](https://en.wikipedia.org/wiki/T-shaped_skills) people, with a wide breadth of skills plus a specialism. The core modules therefore cover a lot of ground, so anything you can do to gain some prior knowledge will help out.
+### Mandatory pre-course training
+
+Before you join a Sparta course, you should must have completed the actions in the following sections of this document:
+
+* Medium
+* Pocket
+* Using a Mac
+* The Command Line
+* Markdown
+
+If you are attending an SDET, JavaScript Engineer, Web Development or DevOps course, you must also complete the following pre-training:
+
+* Codeacademy's *[Learn Git Course](https://www.codecademy.com/learn/learn-git)* (2 hours)
+* Codeacademy's *[Learn SQL](https://www.codecademy.com/learn/learn-sql)* (2 hours)
+* Codecademy's *[HTML & CSS Course](https://www.codecademy.com/learn/web)* (7 hours)
+
+For **SDET** Students:
+
+* Codecademy's [Ruby Course](https://www.codecademy.com/learn/ruby) (9 hours)
+
+For **Web Development** or **JavaScript Engineering** Students:
+
+* Codecademy's [JavaScript Course](https://www.codecademy.com/learn/javascript) (10 hours)
+
+We'll be checking to make sure that you've completed the pre-work on day one of the course.
+
+***
+
+## Developing the right mindset
+
+Our training courses aim to produce [T-shaped](https://en.wikipedia.org/wiki/T-shaped_skills) people, with a wide breadth of skills plus a specialism. The core modules therefore cover a lot of ground, so anything you can do to gain some prior knowledge will help out.
 
 As far as we're concerned, two of the most important traits for success in the tech industry are **[passion](http://sparta.global/deloitte-pssion)** and **[curiosity](http://sparta.global/cio-curiosity)**. We're hoping you're already passionate about technology, but having the curiosity to find out how and why things work may be something you need to develop.
 
@@ -55,9 +85,9 @@ Being a good technologist is about far more than writing good code or testing: I
 
 ## Using a Mac
 
-On the course, you will be using a Mac for everything. If you have used one in the past this may be easy, but if you're new to them there are some subtle differences in how they work that are worth spending time on. The faster you are at using your machine, the more time you will have to focus on the course material.
+On the course, you will be using a Mac for everything. If you have used one in the past this should be easy, but if you're new to macOS then there are some subtle differences in how it works. The faster you are at using your machine, the more time you will have to focus on the course material.
 
-If you don't have access to mac, it would be worth borrowing one from a friend or going into an Apple Store and having a play with the merchandise. The Apple Store also offers instruction on the basics of using a mac.
+If you don't have access to mac, it would be worth borrowing one from a friend or going into an Apple Store and having a play with one. The Apple Store also offers instruction on the basics of using a mac.
 
 #### Things to know before the course
 1. **A fancier trackpad** - The mac trackpad allows much more functionality than most windows machines, especially with the use of multi-touch gestures. These will be incredibly useful when navigating between different windows and programs. Spend some time practising these and how they can be used. They can also be customised in System Preferences.
@@ -69,7 +99,7 @@ If you don't have access to mac, it would be worth borrowing one from a friend o
 5. **Spotlight search** - This simple search can be opened with the keyboard shortcut `cmd + space`, and allows search throughout your entire machine. This is really useful when you first start and you're not sure exactly where everything is!
 6. **Terminal** - The program that gives access to the command line in mac. There are some useful keyboard shortcuts in this [terminal cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet/blob/master/README.md).
 7. **Multiple desktops** - A really useful workflow tool. Multiple desktops can be added and navigated through using multi-touch gestures.
-8. **Different keys** - Watch out for that cheeky @ sign, he's in a different place! There is also the `cmd` key used for keyboard shortcuts. 
+8. **Different keys** - Watch out for that cheeky `@` sign, he's in a different place! There is also the `cmd` key used for keyboard shortcuts. 
 
 ## Learning the basics
 
