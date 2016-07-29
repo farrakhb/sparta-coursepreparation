@@ -4,13 +4,13 @@ We recommend that you spend some time preparing for your course. This document g
 
 ### Mandatory pre-course training
 
-Before you join a Sparta course, you should must have completed the actions in the following sections of this document:
+Before you join a Sparta course, you *must* have completed the actions in the following sections of this document:
 
-* Medium
-* Pocket
-* Using a Mac
-* The Command Line
-* Markdown
+* [Medium](#medium)
+* [Pocket](#pocket)
+* [Using a Mac](#using-a-mac)
+* [The Command Line](#the-command-line)
+* [Markdown](#markdown)
 
 If you are attending an SDET, JavaScript Engineer, Web Development or DevOps course, you must also complete the following pre-training:
 
