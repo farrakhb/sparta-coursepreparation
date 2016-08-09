@@ -26,7 +26,7 @@ For **Web Development** or **JavaScript Engineering** Students:
 
 * Codecademy's [JavaScript Course](https://www.codecademy.com/learn/javascript) (10 hours)
 
-We'll be checking to make sure that you've completed the pre-work on day one of the course.
+We will be checking to make sure that you have completed the pre-work on day one of the course.
 
 ***
 
@@ -34,7 +34,7 @@ We'll be checking to make sure that you've completed the pre-work on day one of 
 
 Our training courses aim to produce [T-shaped](https://en.wikipedia.org/wiki/T-shaped_skills) people, with a wide breadth of skills plus a specialism. The core modules therefore cover a lot of ground, so anything you can do to gain some prior knowledge will help out.
 
-As far as we're concerned, two of the most important traits for success in the tech industry are **[passion](http://sparta.global/deloitte-pssion)** and **[curiosity](http://sparta.global/cio-curiosity)**. We're hoping you're already passionate about technology, but having the curiosity to find out how and why things work may be something you need to develop.
+As far as we are concerned, two of the most important traits for success in the tech industry are **[passion](http://sparta.global/deloitte-pssion)** and **[curiosity](http://sparta.global/cio-curiosity)**. We are hoping that you are already passionate about technology, but having the curiosity to find out how and why things work may be something you need to develop.
 
 > *Read everything you can, and then find more to read. That's the best advice I can offer!* – **Joe Buckwell**, Sparta Graduate
 
@@ -105,7 +105,7 @@ If you don't have access to mac, it would be worth borrowing one from a friend o
 
 #### The Command Line
 
-Regardless of the course you're applying for, you're likely to spend a fair amount of time working with the command line. For those hoping to become engineers (whether development, DevOps or SDET), this is doubly important. We'd recommend the following:
+Regardless of the course you're applying for, you're likely to spend a fair amount of time working with the command line. For those hoping to become engineers (whether development, DevOps or SDET), this is doubly important. Would recommend the following:
 
 1. Complete free elements of the Codecademy *[Learn the Command Line Course](https://www.codecademy.com/learn/learn-the-command-line)* (3 hours).
 2. Spend some time practising some of the basics. Command like `cd`, `cp`, `mv`, `rm`, `touch`, `ls` should be second nature to you. 
@@ -203,4 +203,4 @@ The Amazon descriptions should make it clear what they're all about.
 ---
 ### We're looking forward to meeting you 😃
 
-*PS. If you spot any typos in this document or have any resources you'd like to add, feel free to submit a [pull request](https://help.github.com/articles/using-pull-requests/) once you know how to use Git and GitHub.*
+*PS. If you spot any typos in this document or have any resources you would like to add, feel free to submit a [pull request](https://help.github.com/articles/using-pull-requests/) once you know how to use Git and GitHub.*
